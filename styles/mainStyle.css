@@ -1,0 +1,25 @@
+body {
+    background-color: darkslateblue;
+    color: bisque;
+}
+
+a {
+    color: royalblue;
+}
+
+h1 {
+    color: burlywood;
+}
+
+th {
+    color: cornflowerblue;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table.kittyTable, th, td {
+    padding: 10px;
+    border: 1px solid pink;
+}
