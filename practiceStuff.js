@@ -25,3 +25,5 @@ const birdsList = {
     jane: janeBluebird,
     knownBirds: 1,
 };
+
+document.querySelector("ul").style.color = "purple"
